@@ -2,7 +2,6 @@
 
 pip==20.1
 virtualenv==20.0.20
-sqlite==3.31.1
 
 django==2.2.12  # pyup: <2.3
 django-extensions==2.2.9
